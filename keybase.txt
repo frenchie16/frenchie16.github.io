@@ -1,0 +1,79 @@
+https://keybase.io/jdfrench
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://johnfren.ch
+  * I am jdfrench (https://keybase.io/jdfrench) on keybase.
+  * I have a public key with fingerprint BC59 E7FF 947A 40B0 6E39  B413 D014 5B9A 3FD5 7F6C
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.5"
+        },
+        "key": {
+            "fingerprint": "bc59e7ff947a40b06e39b413d0145b9a3fd57f6c",
+            "host": "keybase.io",
+            "key_id": "D0145B9A3FD57F6C",
+            "uid": "f18d2dfbf6d8454f39ac5d54a9daab19",
+            "username": "jdfrench"
+        },
+        "merkle_root": {
+            "ctime": 1431489312,
+            "hash": "8545bff3f5ec5077285b508c11dceba22c590308805acda3d2c18c82f61b07b31d469af8edff1c23c6b4a21c64d702906d7bec0fc7fa6734d8885d89a3f46194",
+            "seqno": 220538
+        },
+        "service": {
+            "hostname": "johnfren.ch",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1431490238,
+    "expire_in": 157680000,
+    "prev": "6ff0fde94d5c69cce8e2d0e6283a36dd891c1533345b84eca619fe28077556c5",
+    "seqno": 24,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owFVkn1QFGUcxw/QSBKpNCvGBFYLiQP3fZ/FoQzh/io1EFSiOXafF+54uT32DpRB
+sCEh0DHIRDSgSCbEGqYYkzlOhyxjjEh8jyCQgUEctURHe2GqmXZJZ2j/2t3f9/k+
+38/3eepCgywhAZlF3rM59Y+9EdB/Q7Wkpw70lFKqhkqohFIK5juxy2u+uZQCTCVQ
+ebhEVTw43qlFujSE43M9kQ80VqoY6x6n5jJUdLwUL1BlVlNuLiZOVw7W3brT9KJU
+KMhYIkTmJYWnVVrEnKzyDIdohhdUWeEIEiQiQsPSoXm8/9uVmvW0O5HxN9nUJ8mv
+cLZkQbKJ64xZ0eyAMACxiKhERIAXeMLJChSQwCsyUhSVkU2hB+sPkHIR0bELOsy8
+BVjPy8d2XdNmoaHXaUoYnmN4IHMMayRSPA5jERCMqIRwRMBQoCWJBYIq0AAyDIJY
+VVjWYKQ5GgBaUCBSOMRCBkDAEpFRaUnlGMSLskIARoQwkOWgqPIKy0CRRxLNyrSI
+JBVDmkCJKKLE8QgAICBglsOLjMwbCB5c6NKoBJalBQ6Umd96sRNiM7dZ20M6zeEy
++eINQCvl1jWvBrV8Y+Dwet0JJrO3xG0Kt2HV7un4z8OuOl3IOLO5h8oY0rl9yDTL
+ASuFt7udOrY7TYUgiYA2HnMfXGx4ioTQBGGZRwIUZQgxwCyiscgCTuFEZPAwkBE4
+jjPKBDyGioFGMAuMQgVBhMIcSt4IquQYnh5njkvxFumYKqsJXDbPEhBieWR+oHlt
+LSELHn94l1e+GfZ36GcR3eTIsxUrWjuD1wdHPWdrzntn4tTuzE3UmK342GhbXWqT
+yr20f8vU112BSz6gxgc3Xm+kLHty09NH+k6uDow95+rNujKeHUPaO2LvfFP+euX8
+9sQbLXGl2F91f2bm8rWt1w52pR+YjNJ3RsfsvXRxZdalq88f3na+1bYg6FJYg3ah
+Sbt+5a/xytoG9fe2nLVg/U/6Lus/mVXrYrMetUU0Ng32jC0uvPAjM5qxJiPpiZDp
+78BwT7V46EtmVXfv+71DWdnNvrxNDS13i59sKIhprC3orx7arNKxi/7gP78ysyb6
+3p2B0mnfC7mX3z2jNxx9zV8zlv6M4ot7NaUm+0X8XtX3F4N/aK7cVxQ9rZ/pnNiT
+5ff7K2/5LDvPjoLEU8O/fXKyq6y/c94ZrSboq8zoydtH2rpDD/e+1X18l+Pu6txf
+Pp6pPB25r3HRhkWZh5a0VywMD0ja68i4PjIScnG8j3IUnu9JndhjT1t4+tzyt7er
+LYme8/eGloavOBpeEr22Z6ogsPwpie7Tlu442No5qU8nS4dGv8gdiLpPr/b7vCrj
+qfZVnagK2xgTxyRvPznx4WBP76pT0+2bn86+dfPPcz8L+Sd2pImNn94M9SUl1B8r
+jBi8Wu1zL9+fMt21ICVsXdzUltqIrTFWW/3tIFtfw+60DQfSur6tKCt/efjyR9XL
+wvp/7Vh8vLZupvZf
+=KKYm
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jdfrench
