@@ -28,13 +28,7 @@
 
           <nav>
             <a href="{{ site.baseurl }}/">Blog</a>
-            {% for page in site.pages %}
-            {% if page.title %}
-            {% unless page.nav_exclude %}
-            <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-            {% endunless %}
-            {% endif %}
-            {% endfor %}
+            <a href="{{ site.baseurl }}/about">About</a>
           </nav>
         </header>
       </div>
