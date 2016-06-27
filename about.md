@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a software developer living in Worcester, MA. I studied at [WPI](http://wpi.edu/) and will be graduating in May 2015 with a B.S. in Computer Science.
-
-I will be joining Apple as an iOS Software Engineer in June and moving to the bay area.
+I'm a software developer living in San Francisco. I studied Computer Science at [WPI](http://wpi.edu/) and currently work for [Apple](http://apple.com).
 
 ### Contact
 
