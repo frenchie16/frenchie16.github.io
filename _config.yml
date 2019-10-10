@@ -6,7 +6,7 @@
 name: John French
 
 # Short bio or description (displayed in the header)
-description: Software Developer
+description:
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar_local: true
@@ -20,11 +20,11 @@ avatar: assets/portrait.jpg
 footer-links:
   dribbble:
   email: me@johnfren.ch
-  facebook: frenchie16
+  facebook:
   flickr:
   github: frenchie16
-  instagram:
-  linkedin: johndfrench
+  instagram: nodolra
+  linkedin:
   pinterest:
   rss: true # just type anything here for a working RSS icon
   twitter:

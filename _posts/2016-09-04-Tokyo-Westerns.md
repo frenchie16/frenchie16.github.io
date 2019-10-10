@@ -3,9 +3,7 @@ layout: post
 title: "Tokyo Westerns 2016 Writeups"
 ---
 
-"Hey John, shouldn't you post something other than CTF writeups on your blog?"
-
-Shut up. CTFs are fun.
+Another CTF writeup, because that's all I ever use this blog for.
 
 <!--more-->
 
