@@ -43,8 +43,8 @@ The other bridges have 24-hour access for cyclists.
 ## Registration
 To register, [send me an email](mailto:me@johnfren.ch?subject=Permanent%20Registration%3A%20Three%20Bridges%20of%20the%20Bay&body=Please%20fill%20out%20the%20following.%0A%0ALast%20name%3A%0AFirst%20name%3A%0AStreet%20address%3A%0ACity%3A%0AState%3A%0AZIP%3A%0ATelephone%3A%0ARUSA%20number%20(you%20must%20be%20a%20current%20member%20of%20RUSA)%3A%0ADate%20of%20ride%3A%0AStart%20time%3A).
 (That link will open your email client with a form for you to fill in and click "send".)
-You must also print fill out (in pen) [this waiver](https://rusa.org/sites/default/files/2019-01/PERMANENT-RELEASE-AND-WAIVER-OF-LIABILITY-January-2019-version-2.1.pdf), and mail it to me.
+You must also print, fill in, and sign (in pen) [this waiver](https://rusa.org/pages/permanent-waiver), and mail it to me.
 I will not accept electronic waivers at this time.
 I will provide my mailing address by email after you register.
 
-I do not ask for any registration fees, but please consider [donating to Bike East Bay](https://bikeeastbay.org/) whose advocacy for bike access on the Richmond-San Rafael bridge made this route possible.
+I do not ask for any registration fees, but please consider donations to [Bike East Bay](https://bikeeastbay.org/) and [Marin County Bicycle Coalition](https://www.marinbike.org/news/road/bike-the-bay-r-sr-bridge-pathway-opens-november-16/) whose advocacy for bike access on the Richmond-San Rafael bridge made this route possible.
