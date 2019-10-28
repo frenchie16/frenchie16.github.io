@@ -47,4 +47,4 @@ You must also print, fill in, and sign (in pen) [this waiver](https://rusa.org/p
 I will not accept electronic waivers at this time.
 I will provide my mailing address by email after you register.
 
-I do not ask for any registration fees, but please consider donations to [Bike East Bay](https://bikeeastbay.org/) and [Marin County Bicycle Coalition](https://www.marinbike.org/news/road/bike-the-bay-r-sr-bridge-pathway-opens-november-16/) whose advocacy for bike access on the Richmond-San Rafael bridge made this route possible.
+I do not ask for any registration fees, but please consider donations to [Bike East Bay](https://bikeeastbay.org/) and [Marin County Bicycle Coalition](https://www.marinbike.org/) whose advocacy for bike access on the Richmond-San Rafael bridge made this route possible.
