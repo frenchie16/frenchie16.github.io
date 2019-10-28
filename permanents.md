@@ -16,12 +16,12 @@ This route crosses every bridge across the San Francisco Bay on which bicycles a
 
 ## Route Description
 Starting on the Pacific coast of San Francisco, you will ride down the peninsula along the beautiful Crystal Springs Reservoir.
-The parallel Interstate 280 has the nickname "The World's Most Beautiful Freeway", but you will appreciate the beauty far more by bike.
 You'll then head down through Palo Alto to the first bridge of the day, the Dumbarton.
-Once across the bay, you'll head up into the hills, then turn North on Palomares and Redwood roads through the beautiful hills of the East Bay, before descending to Emeryville to cross the Bay Bridge.
-Unfortunately bikes are only allowed on half of this bridge - after a stop on Treasure Island (techincally part of San Francisco), you'll return back across the bridge to Emeryville, and then head back up into the hills on Wildcat Canyon and Bear Creek roads to reach Martinez.
+Once across the bay, you'll head up into the hills, then turn north on Palomares and Redwood roads through the hills of the East Bay, before descending to Emeryville to cross the Bay Bridge.
+Unfortunately bikes are only allowed halfway across this bridge - after a stop on Treasure Island (techincally part of San Francisco), you'll return across the bridge and head back up into the hills on Wildcat Canyon and Bear Creek roads to reach Martinez.
+
 The bridges come more frequently now: you'll cross the Benicia-Martinez bridge to Benicia before immediately heading back south across the Carquinez bridge, then ride down to Richmond to cross the Richmond-San Rafael bridge.
-Finally, a quick lap through Larkspur and Marin to the last and best-known bridge, the Golden Gate, to finish where you started in San Francisco.
+Finally, a quick lap through Marin to the last and most famous bridge, the Golden Gate, to finish where you started in San Francisco.
 
 ## Notes
 *This route is NOT yet approved by RUSA.*
