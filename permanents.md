@@ -10,22 +10,13 @@ When they have been submitted to and approved by RUSA, this page will be updated
 # Three Bridges of the Bay
 <iframe src="https://ridewithgps.com/embeds?type=route&id=31074440&metricUnits=true&sampleGraph=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 
+RUSA permanent #[3918](https://rusa.org/cgi-bin/permview_GF.pl?permid=3918)
+
 I came up with the idea for this route when I heard that the Richmond-San Rafael Bridge bike lane would soon open.
-The concept is based on the [Seven Bridges of Königsberg](https://en.wikipedia.org/wiki/Seven_Bridges_of_Königsberg), a famous problem in mathematics.
+The concept is inspired by the [Seven Bridges of Königsberg](https://en.wikipedia.org/wiki/Seven_Bridges_of_Königsberg), a famous problem in mathematics.
 This route crosses every bridge across the San Francisco Bay on which bicycles are permitted.
 
-## Route Description
-Starting on the Pacific coast of San Francisco, you will ride down the peninsula along the beautiful Crystal Springs Reservoir.
-You'll then head down through Palo Alto to the first bridge of the day, the Dumbarton.
-Once across the bay, you'll head up into the hills, then turn north on Palomares and Redwood roads through the hills of the East Bay, before descending to Emeryville to cross the Bay Bridge.
-Unfortunately bikes are only allowed halfway across this bridge - after a stop on Treasure Island (techincally part of San Francisco), you'll return across the bridge and head back up into the hills on Wildcat Canyon and Bear Creek roads to reach Martinez.
-
-The bridges come more frequently now: you'll cross the Benicia-Martinez bridge to Benicia before immediately heading back south across the Carquinez bridge, then ride down to Richmond to cross the Richmond-San Rafael bridge.
-Finally, a quick lap through Marin to the last and most famous bridge, the Golden Gate, to finish where you started in San Francisco.
-
 ## Notes
-*This route is NOT yet approved by RUSA.*
-I will update this page if and when it becomes approved and is available to ride.
 
 I will accept EPP (electronic proof of passage).
 See the RUSA [rules for permanent riders](https://rusa.org/pages/permRiderRules) for details.
@@ -46,5 +37,4 @@ To register, [send me an email](mailto:me@johnfren.ch?subject=Permanent%20Regist
 You must also print, fill in, and sign (in pen) [this waiver](https://rusa.org/pages/permanent-waiver), and mail it to me.
 I will not accept electronic waivers at this time.
 I will provide my mailing address by email after you register.
-
-I do not ask for any registration fees, but please consider donations to [Bike East Bay](https://bikeeastbay.org/) and [Marin County Bicycle Coalition](https://www.marinbike.org/) whose advocacy for bike access on the Richmond-San Rafael bridge made this route possible.
+There are no registration fees.
