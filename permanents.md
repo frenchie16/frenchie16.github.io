@@ -4,8 +4,9 @@ title: Permanents
 permalink: /permanents/
 ---
 
-I am working on some [RUSA permanent routes](https://rusa.org/pages/permanents).
-When they have been submitted to and approved by RUSA, this page will be updated.
+Here you can find information about my [RUSA permanent routes](https://rusa.org/pages/permanents).
+If you are a RUSA member, you can register to ride one and earn some intangible randobucks.
+Some say "if it's not on Strava, it didn't happen", but for some of us, the RUSA database is the true proof.
 
 # Three Bridges of the Bay
 <iframe src="https://ridewithgps.com/embeds?type=route&id=31074440&metricUnits=true&sampleGraph=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
